@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402676195571",
+    "project_id": "agora-swipe-app",
+    "storage_bucket": "agora-swipe-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402676195571:android:f4360491c20dc38b7e5786",
+        "android_client_info": {
+          "package_name": "com.example.swipe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402676195571-fb4fues6stabuol805f426qg7cb5d9pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR647Soc0Abjce3GtaIwFss8bhRFWuj9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402676195571-fb4fues6stabuol805f426qg7cb5d9pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
